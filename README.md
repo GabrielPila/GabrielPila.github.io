@@ -62,19 +62,17 @@ I served as a consultant for the financial services office (FSO).
 
 ### Professional Projects
 
-**Customer Churn Prediction Model**
-
-
-**Customer service claim management predictor**
-
-**Customer service claim management predictor**
-
-
 **Portfolio of ML Projects**
-  - Churn model
-  - Profitability model
-  - Credit interest estimation
-  - Time series estimation, etc
+  - Customer churn prediction model
+  - Customer claim detector model
+  - Credit card risk of default prediction model
+  - Credit card profitability model
+  - Loan interest estimation by optimization
+  - Auto insurance financial revenue estimation with time series
+  - Probability of policy claims in auto and health insurance
+  - Personalized pricing for insurance products (auto and health)
+  - Customer life time value estimation (CLV)
+  - Anomaly detector in customer contacts to customer service
 
 
 ### Academic Projects
