@@ -5,8 +5,10 @@
 Experienced Data Scientist & Software Engineer with an MS in Data Science from UC San Diego. Over 5 years in ML projects, specializing in retail customer and product analytics (Financial Services, Fintech, and Insurance). I led ML teams for 2+ years, creating impactful data products for millions of customers in Latin America. Effective collaborator with strong business acumen, translating complex business challenges into technical solutions. Enthusiastically explores new ML techniques to drive innovative product development. 
 
 
+ 
 ### Work Experience
 **Lead Data Scientist @ Rappi**
+
 I was part of the Global Unit of Artificial Intelligence of Rappibank (Fintech)
 - Managed a team of data scientists and ML engineers, focusing on Customer Risk Management and business analytics projects.
 - Collaborated with company business teams to design and implement 12 ML models, boosting business KPIs in areas like churn, sales, growth, collections, profitability, LTV, claims, and credit risk (models applied to +600k banking customers and +30M Rappi prospects).
@@ -17,6 +19,7 @@ I was part of the Global Unit of Artificial Intelligence of Rappibank (Fintech)
 
 
 **Software Development Engineer Intern @ Amazon**
+
 I interned in Amazon Ads during my MS program at UCSD, collaborating in the Analytics and Data Management team.
 - Designed architecture changes for a KPI monitoring tool, enhancing ad campaign analytics (clicks, conversion, etc.) for Amazon Ads clients. 
 - Developed a website for Ads account managers, utilizing DynamoDB, AppSync, CDK, and Typescript for Terabytes of GraphQL ads data.
@@ -24,6 +27,7 @@ I interned in Amazon Ads during my MS program at UCSD, collaborating in the Anal
 
 
 **Senior Data Scientist @ Rimac Seguros (Insurance)**
+
 I was part of the Division of Artificial Intelligence of the insurance company, focused on customer analytics, pricing and computer vision.
 - Managed a Computer Vision squad of 3 data scientists specializing in vehicle inspection and damage recognition for auto insurance.
 - Managed 3 data scientists of the Computer Vision squad for vehicle inspection and damage recognition projects for auto insurance. Used deep learning for object detection (YOLO) and image segmentation (UNET) to automate 100% of the insurance’s inspection process.
@@ -33,25 +37,26 @@ I was part of the Division of Artificial Intelligence of the insurance company, 
 
 
 **Data Analytics Consultant @ Ernst & Young (EY)**
+
 I served as a consultant for the financial services office (FSO).
 - Provided advisory services to international financial companies (banking/insurance) within the advanced analytics consulting team.
 - Developed a pricing methodology incorporating a credit risk-of-default prediction model and AB testing, applied to two banks in Peru.
 - Developed strategies for optimizing credit card revenue, contributing to a $10M financial revenue boost for Scotiabank Mexico and Peru.
 
 
+ 
 ### Education
 **[Master in Science in Data Science](https://datascience.ucsd.edu/graduate/ms-program/) at UC San Diego**
 - President and founder of the Data Science Graduate Association (DSGA)
 - Graduate Committee Lead at the Society of Hispanic Professional Engineers (SHPE)
 - Collaborated with professors as a Teaching Assistant during all the quarters of my program.
 
-**[MicroMaster in Statistics and Data](https://micromasters.mit.edu/ds/) Science at MIT (remote)**
+**[MicroMaster in Statistics and Data Science](https://micromasters.mit.edu/ds/) at MIT (remote)**
 - Awarded a scholarship from [BREIT](https://idss.mit.edu/news/perus-breit-future/) to study the program as part of the first cohort 
 
 **Bachelor of Science in Civil Engineering at Pontificia Universidad Catolica del Peru (PUCP)**
 - Summa Cum Laude at graduation
 - Awarded a full scholarship for my academic excellence.
-
 
 
 
