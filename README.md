@@ -97,7 +97,7 @@ I served as a consultant for the financial services office (FSO).
 
 ### Teaching Experience
 
-- Teaching Assistant at courses at PUCP for the Data Science, Computer Science and Business schools (2022-2024):
+- Teaching Assistant at courses at University of California - San Diego for the Data Science, Computer Science and Business schools (2022-2024):
   - Python for Data Analysis (Master in Data Science & Engineering)
   - Customer Analytics (Rady School of Management)
   - Statistical Computing (Health Department)
